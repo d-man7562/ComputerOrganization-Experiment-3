@@ -1,4 +1,4 @@
-# ComputerOrganization-Experiment3
+# ComputerOrganization-Experiment-3
 In assembly, creates a simple calculator that handles add, subtract operations. Input and outputs can not be less than zero or greater than or equal to 10.
 
 This program was designed using NASM x86 Win32 API and is intended to be run on Windows.
